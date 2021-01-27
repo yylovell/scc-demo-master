@@ -1,0 +1,3 @@
+# Project exclude paths
+/sccdemo/sccdemoclient/target/
+/sccdemo/sccdemoserver/target/

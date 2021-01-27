@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/sccdemo/sccdemoclient/scc-demo-client.iml" filepath="$PROJECT_DIR$/sccdemo/sccdemoclient/scc-demo-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/scc-demo-master.iml" filepath="$PROJECT_DIR$/.idea/scc-demo-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sccdemo/sccdemoserver/scc-demo-server.iml" filepath="$PROJECT_DIR$/sccdemo/sccdemoserver/scc-demo-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sccdemo/sccdemo.iml" filepath="$PROJECT_DIR$/sccdemo/sccdemo.iml" />
+    </modules>
+  </component>
+</project>
